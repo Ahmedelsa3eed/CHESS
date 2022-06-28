@@ -47,21 +47,21 @@ If the user wants a new game, we will reset the board and clear the temp array.
 -	If the king or one of the rooks moved from his start position them the castling will not valid any more in the game.
 
 ### Sample Runs
-Begining
+#### Begining
 ![image](https://user-images.githubusercontent.com/73740339/176269417-2a21e578-3580-4eab-919f-c194c022f297.png)
-Promotion
+#### Promotion
 ![image](https://user-images.githubusercontent.com/73740339/176269558-a6b8a184-a492-4dea-b62c-dc18c62da335.png)
-Checkmate
+#### Checkmate
 ![image](https://user-images.githubusercontent.com/73740339/176269661-57738e5b-f938-4ce1-91be-173b54a18387.png)
 ![image](https://user-images.githubusercontent.com/73740339/176269713-ccf1cfb7-133d-4f20-9f82-1a138311c7dd.png)
-Draw
+#### Draw
 ![image](https://user-images.githubusercontent.com/73740339/176269812-b943353a-d9d6-4052-8579-11492fcc5387.png)
-Win
+#### Win
 ![image](https://user-images.githubusercontent.com/73740339/176269916-fa5d6a2e-78fb-4445-95da-5009ad68818c.png)
 ![image](https://user-images.githubusercontent.com/73740339/176269943-25f1fad5-34ea-4f04-89df-cf5aea9dbe6c.png)
-Save & Load
+#### Save & Load
 ![image](https://user-images.githubusercontent.com/73740339/176269978-118d1942-b41d-411f-9599-2b8c74c82324.png)
 ![image](https://user-images.githubusercontent.com/73740339/176270062-8a6bf5e6-0a43-4778-b05e-2f9e47dfebe6.png)
-Undo & Redo
+#### Undo & Redo
 ![image](https://user-images.githubusercontent.com/73740339/176270266-35e5006c-e351-4821-98ea-e036b7edc22c.png)
 ![image](https://user-images.githubusercontent.com/73740339/176270347-b8302239-7043-4d0b-965d-890d087ca47c.png)
