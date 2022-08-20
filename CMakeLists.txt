@@ -3,4 +3,4 @@ project(CHESS-C-console-app)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(CHESS-C-console-app src/main.cpp)
+add_executable(CHESS-C-console-app main.c)
